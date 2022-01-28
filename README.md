@@ -3,7 +3,7 @@
 This repository focuses on a simulation analysis of helicopter transport operations in the upstate New York
 area to help determine how many helicopters are needed and where they should be based. 
 
-- Heli contains our analysis and final report
+- Helicopter Emergency Transport in Upstate New York Project Report.pdf contains our analysis and final report
 - Emergency Helicopter Simulation Source Code.ipynb contains the source code for our simluation model
 - ProjectData.csv contains the year's worth of emergency call and flight data used in our project
 
